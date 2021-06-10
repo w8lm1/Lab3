@@ -1,0 +1,138 @@
+﻿  SetTests.cpp
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(239,1): warning C4099: Tree<T>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(5): message : см. объявление "Tree<T>::Node"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(227): message : во время компиляции функции-члена класс шаблон "Tree<T>::Node *Tree<T>::Delete(Tree<T>::Node *,T)"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(225): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tree<T>::Node *Tree<T>::Delete(Tree<T>::Node *,T)"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Set.h(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<T>"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabTest\SetTests.cpp(26): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<int>"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(244,1): warning C4099: Tree<T>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(5): message : см. объявление "Tree<T>::Node"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(131,29): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(127): message : во время компиляции функции-члена класс шаблон "void DynamicArray<T>::ResizeRight(int)"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\ArraySequence.h(101): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynamicArray<T>::ResizeRight(int)"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\ArraySequence.h(188): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DynamicArray<T>"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\ArraySequence.h(187): message : во время компиляции функции-члена класс шаблон "void ArraySequence<Tree<T>::Node *>::Clear(void)"
+          with
+          [
+              T=Person
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Set.h(159): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ArraySequence<Tree<T>::Node *>"
+          with
+          [
+              T=Person
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Set.h(157): message : во время компиляции функции-члена класс шаблон "bool Set<Person>::SubSetPath(Tree<T>::Node *,Tree<T>::Node *,Set<T>)"
+          with
+          [
+              T=Person
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Set.h(306): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Set<Person>::SubSetPath(Tree<T>::Node *,Tree<T>::Node *,Set<T>)"
+          with
+          [
+              T=Person
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabTest\SetTests.cpp(61): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<Person>"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(132,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(119,29): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(113): message : во время компиляции функции-члена класс шаблон "void DynamicArray<T>::Resize(int)"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\ArraySequence.h(188): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynamicArray<T>::Resize(int)"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(120,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(93,32): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(92): message : во время компиляции функции-члена класс шаблон "T &DynamicArray<T>::Get(int)"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\ArraySequence.h(73): message : выполняется компиляция ссылки на экземпляр шаблон функции "T &DynamicArray<T>::Get(int)"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(86,32): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(85): message : во время компиляции функции-члена класс шаблон "void DynamicArray<T>::Set(int,T)"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\ArraySequence.h(181): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynamicArray<T>::Set(int,T)"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(79,32): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\DynamicArray.h(78): message : во время компиляции функции-члена класс шаблон "T &DynamicArray<T>::operator [](const int)"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\ArraySequence.h(181): message : выполняется компиляция ссылки на экземпляр шаблон функции "T &DynamicArray<T>::operator [](const int)"
+          with
+          [
+              T=Tree<Person>::Node *
+          ]
+  TreeTest.cpp
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(239,1): warning C4099: Tree<int>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(5): message : см. объявление "Tree<int>::Node"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(227): message : во время компиляции функции-члена класс шаблон "Tree<int>::Node *Tree<int>::Delete(Tree<int>::Node *,T)"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(225): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tree<int>::Node *Tree<int>::Delete(Tree<int>::Node *,T)"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabTest\TreeTest.cpp(22): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<int>"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(244,1): warning C4099: Tree<int>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(5): message : см. объявление "Tree<int>::Node"
+  Создание кода...
+  LabTest.vcxproj -> C:\Dev C\2sem\My\3lab\LabMain\Debug\LabTest.exe

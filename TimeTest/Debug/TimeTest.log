@@ -1,0 +1,9 @@
+﻿  TimeTest.cpp
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(14,9): warning C4984: "if constexpr" — расширение языка C++17
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(13,14): message : Сообщение диагностики возникло в созданной компилятором функции "T Enumerable<T>::Reduce(ChildClass<T>,T (__cdecl *)(T,T),const T &)"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(54): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Enumerable<T>"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(28,9): warning C4984: "if constexpr" — расширение языка C++17
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(27,27): message : Сообщение диагностики возникло в созданной компилятором функции "ChildClass<T> *Enumerable<T>::Where(ChildClass<T>,bool (__cdecl *)(T))"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(42,9): warning C4984: "if constexpr" — расширение языка C++17
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(41,28): message : Сообщение диагностики возникло в созданной компилятором функции "ChildClass<T1> *Enumerable<T>::Map(ChildClass<T>,T1 (__cdecl *)(T))"
+  TimeTest.vcxproj -> C:\Dev C\2sem\My\3lab\LabMain\Debug\TimeTest.exe

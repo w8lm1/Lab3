@@ -1,0 +1,132 @@
+﻿  LabMain.cpp
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(14,9): warning C4984: "if constexpr" — расширение языка C++17
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(13,14): message : Сообщение диагностики возникло в созданной компилятором функции "T Enumerable<T>::Reduce(ChildClass<T>,T (__cdecl *)(T,T),const T &)"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(54): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Enumerable<T>"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(28,9): warning C4984: "if constexpr" — расширение языка C++17
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(27,27): message : Сообщение диагностики возникло в созданной компилятором функции "ChildClass<T> *Enumerable<T>::Where(ChildClass<T>,bool (__cdecl *)(T))"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(42,9): warning C4984: "if constexpr" — расширение языка C++17
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Enumerable.h(41,28): message : Сообщение диагностики возникло в созданной компилятором функции "ChildClass<T1> *Enumerable<T>::Map(ChildClass<T>,T1 (__cdecl *)(T))"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(210,1): warning C4099: Tree<T>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+          with
+          [
+              T=std::string
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(5): message : см. объявление "Tree<T>::Node"
+          with
+          [
+              T=std::string
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(200): message : во время компиляции функции-члена класс шаблон "Tree<T>::Node *Tree<T>::Delete(Tree<T>::Node *,T)"
+          with
+          [
+              T=std::string
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(198): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tree<T>::Node *Tree<T>::Delete(Tree<T>::Node *,T)"
+          with
+          [
+              T=std::string
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Set.h(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<T>"
+          with
+          [
+              T=std::string
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\LabMain.cpp(40): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<T>"
+          with
+          [
+              T=std::string
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\LabMain.cpp(85): message : выполняется компиляция ссылки на экземпляр шаблон функции "void StartUI<std::string>(void)"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(215,1): warning C4099: Tree<T>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+          with
+          [
+              T=std::string
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(5): message : см. объявление "Tree<T>::Node"
+          with
+          [
+              T=std::string
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(210,1): warning C4099: Tree<T>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+          with
+          [
+              T=double
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(5): message : см. объявление "Tree<T>::Node"
+          with
+          [
+              T=double
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(200): message : во время компиляции функции-члена класс шаблон "Tree<T>::Node *Tree<T>::Delete(Tree<T>::Node *,T)"
+          with
+          [
+              T=double
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(198): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tree<T>::Node *Tree<T>::Delete(Tree<T>::Node *,T)"
+          with
+          [
+              T=double
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Set.h(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<T>"
+          with
+          [
+              T=double
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\LabMain.cpp(40): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<T>"
+          with
+          [
+              T=double
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\LabMain.cpp(82): message : выполняется компиляция ссылки на экземпляр шаблон функции "void StartUI<double>(void)"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(215,1): warning C4099: Tree<T>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+          with
+          [
+              T=double
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(5): message : см. объявление "Tree<T>::Node"
+          with
+          [
+              T=double
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(210,1): warning C4099: Tree<T>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(5): message : см. объявление "Tree<T>::Node"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(200): message : во время компиляции функции-члена класс шаблон "Tree<T>::Node *Tree<T>::Delete(Tree<T>::Node *,T)"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(198): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tree<T>::Node *Tree<T>::Delete(Tree<T>::Node *,T)"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\Set.h(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<T>"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\LabMain.cpp(40): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<T>"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\LabMain.cpp(79): message : выполняется компиляция ссылки на экземпляр шаблон функции "void StartUI<int>(void)"
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(215,1): warning C4099: Tree<T>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\3lab\LabMain\LabMain\BinaryTree.h(5): message : см. объявление "Tree<T>::Node"
+          with
+          [
+              T=int
+          ]
+  LabMain.vcxproj -> C:\Dev C\2sem\My\3lab\LabMain\Debug\LabMain.exe

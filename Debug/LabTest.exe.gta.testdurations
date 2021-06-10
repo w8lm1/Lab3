@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Dev C\2sem\My\3lab\LabMain\Debug\LabTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="SetTest.Init" Duration="1" />
+    <TestDuration Test="SetTest.Add_Delete" Duration="1" />
+    <TestDuration Test="SetTest.Map" Duration="1" />
+    <TestDuration Test="SetTest.Where" Duration="1" />
+    <TestDuration Test="SetTest.Reduce" Duration="1" />
+    <TestDuration Test="SetTest.Inersection" Duration="1" />
+    <TestDuration Test="SetTest.Union" Duration="1" />
+    <TestDuration Test="SetTest.Substraction" Duration="1" />
+    <TestDuration Test="SetTest.EqualTest" Duration="1" />
+    <TestDuration Test="Tree_test.Init" Duration="1" />
+    <TestDuration Test="Tree_test.Search_Append" Duration="1" />
+    <TestDuration Test="Tree_test.Remove" Duration="1" />
+    <TestDuration Test="Tree_test.SubTree" Duration="1" />
+    <TestDuration Test="Tree_test.Map" Duration="1" />
+    <TestDuration Test="Tree_test.Where" Duration="1" />
+    <TestDuration Test="Tree_test.Reduce" Duration="1" />
+    <TestDuration Test="PersonTest.Init" Duration="1" />
+    <TestDuration Test="PersonTest.Equality" Duration="1" />
+    <TestDuration Test="SetTest.SubSet" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
